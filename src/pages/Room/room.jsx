@@ -15,7 +15,7 @@ const RoomPage = () => {
           sharedLinks : [
             {
                 name : "Copy Link",
-                url : `http://localhost:3000/room/${roomId}`
+                url : `https://calling-theta.vercel.app/room/${roomId}`
             }
           ],
           scenario: {
