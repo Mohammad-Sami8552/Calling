@@ -1,5 +1,6 @@
 import React, { useState, useCallback} from "react";
 import { useNavigate } from "react-router-dom";
+import './home.css'
 
 
 const HomePage = () => {
